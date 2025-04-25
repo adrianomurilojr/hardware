@@ -1,6 +1,0 @@
-CURSO DE HARDWARE
-
-Placa mãe - Gerenciar todos os dados que são transmitidos pelos diversos dispositivos de hardware.
-
-Processador - Componente de hardware responsável por todo processamento logico e aritmético
-
