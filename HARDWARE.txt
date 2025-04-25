@@ -1,0 +1,27 @@
+CURSO DE HARDWARE
+
+Placa mãe - Gerenciar todos os dados que são transmitidos pelos diversos dispositivos de hardware.
+
+Processador - Componente de hardware responsável por todo processamento logico e aritmetico
+
+Memoria RAM - Na memória RAM que o processador procura por dados quando vai executar uma ação. O processador NUNCA busca
+		  dados diretamente no HD sem passar pela memória RAM.
+
+HD (Disco rígido) - Memória de armazenamento de massa.
+SSD (Solid State Drives) - funcionam com componentes eletrônicos, o que os deixa menores e menos exigentes de energia.
+
+Placa de vídeo - Essa peça é responsável por gerar as imagens que você vê na tela, desde uma imagem até um game.
+
+Fonte de Alimentação - fornece enrgia para o PC e transforma corrente alternada em corrente continua.
+
+-----------------------------------------
+HARDWARE é toda parte do PC que podemos pegar
+
+BIOS que faz a inicialização do hardware ate entregar o comando para o sistema operacional
+
+Processador:  um processador é uma poderosa máquina de calcular. O componente recebe um determinado volume de dados,
+orientados em padrão binário 0 e 1 e tem a função de responder a esse volume, 
+processando a informação com base em instruções armazenadas em sua memória interna.
+
+RAM: A função da memória RAM é guardar temporariamente toda a informação que o computador precisa, 
+seja para aquele momento ou para um futuro próximo.
