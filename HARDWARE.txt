@@ -23,5 +23,10 @@ Processador:  um processador é uma poderosa máquina de calcular. O componente 
 orientados em padrão binário 0 e 1 e tem a função de responder a esse volume, 
 processando a informação com base em instruções armazenadas em sua memória interna.
 
-RAM: A função da memória RAM é guardar temporariamente toda a informação que o computador precisa, 
-seja para aquele momento ou para um futuro próximo.
+
+
+
+adicionando linhas 
+mais uma
+mais uma
+mais uma 
